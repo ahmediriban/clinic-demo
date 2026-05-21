@@ -45,7 +45,7 @@ export default function InternationalPage() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2 }}
-              className="text-blue-200 text-xl max-w-2xl mx-auto mb-8"
+              className="text-amber-100 text-xl max-w-2xl mx-auto mb-8"
             >
               {t("heroText")}
             </motion.p>

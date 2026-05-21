@@ -46,7 +46,7 @@ export default function PortfolioPage() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.1 }}
-              className="text-blue-200 text-xl max-w-2xl mx-auto"
+              className="text-amber-100 text-xl max-w-2xl mx-auto"
             >
               {t("subtitle")}
             </motion.p>

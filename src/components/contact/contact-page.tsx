@@ -52,7 +52,7 @@ export default function ContactPage() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.1 }}
-              className="text-blue-200 text-xl max-w-2xl mx-auto"
+              className="text-amber-100 text-xl max-w-2xl mx-auto"
             >
               {t("subtitle")}
             </motion.p>
@@ -156,7 +156,7 @@ export default function ContactPage() {
                     <p className="font-semibold text-sm">
                       {t(`branches.${branch.key}.name` as Parameters<typeof t>[0])}
                     </p>
-                    <p className="text-blue-200 text-xs mt-0.5">
+                    <p className="text-amber-100 text-xs mt-0.5">
                       {t(`branches.${branch.key}.address` as Parameters<typeof t>[0])}
                     </p>
                   </div>

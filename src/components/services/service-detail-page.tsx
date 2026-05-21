@@ -77,7 +77,7 @@ export default function ServiceDetailPage({ serviceKey }: ServiceDetailPageProps
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.2 }}
-                className="text-blue-200 text-lg leading-relaxed mb-8"
+                className="text-amber-100 text-lg leading-relaxed mb-8"
               >
                 {description}
               </motion.p>

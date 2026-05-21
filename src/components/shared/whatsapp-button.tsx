@@ -14,7 +14,7 @@ export default function WhatsAppButton() {
   const url = buildWhatsAppUrl(message);
 
   return (
-    <div className="fixed bottom-6 end-6 z-50 flex flex-col items-end gap-2">
+    <div className="fixed bottom-20 md:bottom-6 end-6 z-50 flex flex-col items-end gap-2">
       <AnimatePresence>
         {hovered && (
           <motion.div

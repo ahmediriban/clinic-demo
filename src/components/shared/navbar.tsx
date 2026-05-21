@@ -8,7 +8,8 @@ import { BsWhatsapp, BsList, BsX, BsChevronDown, BsTelephone } from "react-icons
 import { buildWhatsAppUrl, CALL_PHONE } from "@/lib/whatsapp";
 import Image from "next/image";
 
-const LOGO_URL = "/images/logo.png";
+const LOGO_EN = "/images/logo.png";
+const LOGO_AR = "/images/logo-ar.png";
 
 export default function Navbar() {
   const t = useTranslations("nav");
@@ -53,11 +54,11 @@ export default function Navbar() {
           <Link href="/" className="flex items-center gap-2 shrink-0">
             <div className="relative h-10 w-32">
               <Image
-                src={LOGO_URL}
+                src={locale === "ar" ? LOGO_AR : LOGO_EN}
                 alt="Al Fawzy Dental Clinic"
                 fill
                 sizes="128px"
-                className={`object-contain transition-all ${!scrolled ? "brightness-0 invert" : ""}`}
+                className={`object-contain transition-all duration-300 ${!scrolled ? "brightness-0 invert" : "brightness-0"}`}
                 priority
               />
             </div>

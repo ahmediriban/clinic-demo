@@ -23,7 +23,7 @@ export default function HeroSection() {
   ];
 
   return (
-    <section className="relative min-h-screen flex items-center overflow-hidden bg-gradient-to-br from-[#0D1B2E] via-[#1B3A5C] to-[#0D1B2E]">
+    <section className="relative min-h-screen flex items-center overflow-hidden bg-gradient-to-br from-[var(--color-dark)] via-[var(--color-primary-dark)] to-[var(--color-dark)]">
       {/* Background image */}
       <div className="absolute inset-0">
         <Image
@@ -34,7 +34,7 @@ export default function HeroSection() {
           className="object-cover opacity-20"
           priority
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-[#0D1B2E] via-[#0D1B2E]/80 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-r from-[var(--color-dark)] via-[var(--color-dark)]/80 to-transparent" />
       </div>
 
       {/* Decorative circles */}

@@ -4,16 +4,17 @@
   --font-arabic: var(--font-cairo);
   --font-english: var(--font-jakarta);
 
-  --color-primary: #1B5E8A;
-  --color-primary-light: #2878B5;
-  --color-primary-dark: #0D3D5C;
-  --color-accent: #D4A017;
-  --color-accent-light: #E8BF50;
-  --color-accent-dark: #A87C0D;
-  --color-surface: #F4FAFE;
-  --color-dark: #0D1B2E;
-  --color-muted: #64748B;
-  --color-border: #E2ECF5;
+  --color-primary: #993C37;
+  --color-primary-light: #C04E48;
+  --color-primary-dark: #7A2E2A;
+  --color-accent: #AC8D5D;
+  --color-accent-light: #C4A87A;
+  --color-accent-dark: #8A6E42;
+  --color-surface: #F6F1E8;
+  --color-surface-alt: #EDF2FA;
+  --color-dark: #2A1F1D;
+  --color-muted: #7A7A7A;
+  --color-border: #E9E2DC;
 }
 
 * {
