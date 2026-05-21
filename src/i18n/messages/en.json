@@ -1,0 +1,536 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Al Fawzy Dental Clinic | Leading Dental Care in Egypt",
+      "description": "Al Fawzy Dental Clinic - Egypt's premier dental clinic since 1999. Expert dental implants, cosmetic veneers, full mouth rehabilitation, and sedation dentistry in Cairo.",
+      "keywords": "dental clinic Cairo, dental implants Egypt, cosmetic veneers, teeth whitening, full mouth rehabilitation"
+    },
+    "services": {
+      "title": "Our Dental Services | Al Fawzy Dental Clinic",
+      "description": "Comprehensive dental services including implants, veneers, full mouth rehabilitation, and sedation dentistry at Al Fawzy Dental Clinic in Cairo."
+    },
+    "team": {
+      "title": "Our Medical Team | Al Fawzy Dental Clinic",
+      "description": "Meet the expert dental team at Al Fawzy Dental Clinic. Experienced dentists and specialists providing world-class dental care in Cairo, Egypt."
+    },
+    "contact": {
+      "title": "Contact Us | Al Fawzy Dental Clinic",
+      "description": "Contact Al Fawzy Dental Clinic in Cairo. Visit our Dokki, Agouza, or New Cairo branches. Book your appointment today."
+    },
+    "book": {
+      "title": "Book an Appointment | Al Fawzy Dental Clinic",
+      "description": "Book your dental appointment at Al Fawzy Dental Clinic. Easy online booking for all dental services in Cairo, Egypt."
+    },
+    "international": {
+      "title": "International Patients | Al Fawzy Dental Clinic",
+      "description": "Dental tourism in Egypt with Al Fawzy Dental Clinic. World-class dental care at affordable prices with full international patient support."
+    },
+    "portfolio": {
+      "title": "Our Portfolio | Al Fawzy Dental Clinic",
+      "description": "Before and after smile transformations at Al Fawzy Dental Clinic. Real patient results from dental implants, veneers, and smile makeovers."
+    },
+    "testimonials": {
+      "title": "Patient Testimonials | Al Fawzy Dental Clinic",
+      "description": "What our patients say about Al Fawzy Dental Clinic. Rated 4.8 stars on Google. Thousands of satisfied patients across Cairo."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "whoWeAre": "Who We Are",
+    "ourTeam": "Our Medical Team",
+    "services": "Our Services",
+    "dentalImplants": "Dental Implants",
+    "fullMouthRehab": "Full Mouth Rehabilitation",
+    "cosmeticVeneers": "Cosmetic Veneers",
+    "sedationDentistry": "Sedation Dentistry",
+    "otherServices": "Other Services",
+    "internationalPatients": "International Patients",
+    "testimonials": "Testimonials",
+    "portfolio": "Portfolio",
+    "contactUs": "Contact Us",
+    "bookAppointment": "Book Appointment",
+    "language": "العربية"
+  },
+  "hero": {
+    "badge": "Trusted Since 1999",
+    "headline": "Your Smile, Our Masterpiece",
+    "subheadline": "Leading dental clinic in Egypt with over 25 years of excellence. State-of-the-art technology, expert specialists, and personalized care at every visit.",
+    "ctaBook": "Book via WhatsApp",
+    "ctaConsult": "Free Online Consultation",
+    "ctaServices": "Explore Our Services",
+    "stat1Value": "25+",
+    "stat1Label": "Years of Excellence",
+    "stat2Value": "4.8★",
+    "stat2Label": "Google Rating",
+    "stat3Value": "100+",
+    "stat3Label": "Patients Daily",
+    "stat4Value": "3",
+    "stat4Label": "Branches in Cairo"
+  },
+  "stats": {
+    "title": "Trusted by Thousands of Patients",
+    "subtitle": "Our numbers reflect our commitment to excellence and patient satisfaction",
+    "years": "Years of Excellence",
+    "yearsValue": "25+",
+    "patients": "Happy Patients",
+    "patientsValue": "10,000+",
+    "doctors": "Expert Specialists",
+    "doctorsValue": "13+",
+    "rating": "Google Rating",
+    "ratingValue": "4.8★",
+    "branches": "Branches",
+    "branchesValue": "3",
+    "dailyPatients": "Daily Patients",
+    "dailyPatientsValue": "100+"
+  },
+  "services": {
+    "title": "Our Dental Services",
+    "subtitle": "Comprehensive dental care tailored to your needs",
+    "viewAll": "View All Services",
+    "bookService": "Book This Service",
+    "implants": {
+      "name": "Dental Implants",
+      "tagline": "Permanent solutions that look and feel natural",
+      "description": "State-of-the-art titanium implants that permanently replace missing teeth. Our internationally trained implantologists use advanced 3D planning for precision results.",
+      "features": ["Lifetime warranty", "3D-guided surgery", "Natural look & feel", "Bone preservation"]
+    },
+    "fullMouth": {
+      "name": "Full Mouth Rehabilitation",
+      "tagline": "Complete smile transformation in weeks",
+      "description": "Comprehensive treatment planning for complex dental cases. We restore your entire smile using the latest techniques, combining implants, crowns, and precision bite correction.",
+      "features": ["Complete smile redesign", "Advanced bite correction", "PMMA temporization", "Zirconia crowns"]
+    },
+    "veneers": {
+      "name": "Cosmetic Veneers",
+      "tagline": "A refined, natural smile designed to last",
+      "description": "Premium E-max and Zirconia veneers crafted with precision for a naturally beautiful smile. Transform your appearance with ultra-thin porcelain shells.",
+      "features": ["E-max & Zirconia options", "Ultra-thin design", "Color-matched to you", "Long-lasting results"]
+    },
+    "sedation": {
+      "name": "Sedation Dentistry",
+      "tagline": "Stress-free dental care under sedation",
+      "description": "Complete multiple treatments in a single comfortable session under general anesthesia. Ideal for anxious patients or complex procedures requiring extended treatment time.",
+      "features": ["Zero anxiety", "Multiple procedures", "Hospital-grade sedation", "Full monitoring"]
+    },
+    "whitening": {
+      "name": "Teeth Whitening",
+      "tagline": "Brighter smile in one session",
+      "description": "Professional-grade whitening treatments that deliver dramatic results safely and effectively. Up to 8 shades brighter in a single visit."
+    },
+    "orthodontics": {
+      "name": "Orthodontics",
+      "tagline": "Straight teeth for a confident smile",
+      "description": "Traditional braces and clear aligner options to straighten your teeth. Customized treatment plans for children, teens, and adults."
+    },
+    "rootCanal": {
+      "name": "Root Canal Treatment",
+      "tagline": "Pain-free tooth preservation",
+      "description": "Advanced root canal therapy to save your natural tooth. Modern techniques and anesthesia ensure a comfortable, pain-free experience."
+    },
+    "crowns": {
+      "name": "Dental Crowns",
+      "tagline": "Restore strength and beauty",
+      "description": "High-quality Zirconia and E-max crowns that look identical to natural teeth. Restore damaged or weakened teeth with lasting durability."
+    },
+    "smileMakeover": {
+      "name": "Smile Makeover",
+      "tagline": "Your dream smile realized",
+      "description": "A comprehensive combination of cosmetic procedures tailored specifically to transform your smile. We design your perfect smile digitally before any treatment begins."
+    },
+    "digitalSmile": {
+      "name": "Digital Smile Design",
+      "tagline": "See your new smile before treatment",
+      "description": "Advanced digital technology that allows you to preview your new smile before any treatment begins. Precise planning ensures perfect results."
+    }
+  },
+  "whyUs": {
+    "title": "Why Choose Al Fawzy Dental?",
+    "subtitle": "We combine clinical excellence with patient-centered care for an unmatched experience",
+    "reasons": {
+      "experience": {
+        "title": "25+ Years of Excellence",
+        "description": "Founded in 1999, we have been Cairo's most trusted dental clinic for over two decades."
+      },
+      "technology": {
+        "title": "State-of-the-Art Technology",
+        "description": "CBCT 3D scanning, digital smile design, and hospital-grade sterilization at every branch."
+      },
+      "team": {
+        "title": "Expert Specialist Team",
+        "description": "13+ specialized dentists, all registered with the Egyptian Dental Syndicate and Ministry of Health."
+      },
+      "warranty": {
+        "title": "Treatment Warranties",
+        "description": "We stand behind our work with warranties on all major procedures including implants."
+      },
+      "pricing": {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees. Detailed treatment plans with clear costs before any procedure begins."
+      },
+      "comfort": {
+        "title": "Comfortable Experience",
+        "description": "Flexible scheduling, gentle care for all ages, and sedation options for anxious patients."
+      },
+      "units": {
+        "title": "8 Dental Units Per Branch",
+        "description": "Fully equipped dental units at each of our three Cairo branches ensure minimal waiting times."
+      },
+      "international": {
+        "title": "International Patient Care",
+        "description": "Specialized support for patients traveling from abroad, including coordination and accommodation help."
+      }
+    }
+  },
+  "team": {
+    "title": "Meet Our Expert Team",
+    "subtitle": "Experienced dental specialists dedicated to your perfect smile",
+    "viewAll": "Meet the Full Team",
+    "allDoctors": "Our Medical Team",
+    "registered": "MOH Licensed",
+    "syndicate": "Syndicate Reg",
+    "learnMore": "View Profile",
+    "bookWith": "Book with Dr.",
+    "members": {
+      "ahmed": {
+        "name": "Dr. Ahmed Fawzy",
+        "title": "Founder, CEO & Implant Consultant",
+        "description": "Cairo University graduate (1998) with over 25 years of clinical experience in comprehensive dental care and implantology."
+      },
+      "manal": {
+        "name": "Dr. Manal Elesily",
+        "title": "Co-Founder & Director of Infection Control",
+        "description": "Cairo University Faculty of Oral and Dental Medicine (1999). Expert in infection control and sterilization protocols."
+      },
+      "rehan": {
+        "name": "Dr. Rehan Anwar",
+        "title": "Chief Operating Officer & Medical Director",
+        "description": "Cairo University graduate (2003). Oversees clinical operations and ensures the highest standards of patient care."
+      },
+      "reham": {
+        "name": "Dr. Reham El-Gendy",
+        "title": "Assistant Medical Director",
+        "description": "Experienced dental specialist supporting clinical excellence across all branches."
+      },
+      "rahma": {
+        "name": "Dr. Rahma Samir",
+        "title": "General Dentist",
+        "description": "Skilled general dentist providing comprehensive dental care with attention to patient comfort."
+      },
+      "ibrahim": {
+        "name": "Dr. Ibrahim Metwaly",
+        "title": "Restorative & Oral Surgery",
+        "description": "Specialist in restorative dentistry and oral surgery with expertise in complex procedures."
+      },
+      "mohab": {
+        "name": "Dr. Mohab Shemis",
+        "title": "General Dentist",
+        "description": "Dedicated general dentist committed to delivering exceptional patient care."
+      },
+      "basem": {
+        "name": "Dr. Basem Bahi El-Den",
+        "title": "General Dentist",
+        "description": "Experienced general dentist with a focus on patient education and preventive care."
+      },
+      "maryam": {
+        "name": "Dr. Maryam Shehab",
+        "title": "General Dentist",
+        "description": "Caring dental professional providing gentle, thorough dental care for patients of all ages."
+      },
+      "ghoniem": {
+        "name": "Dr. Ahmed Ghoniem",
+        "title": "General Dentist",
+        "description": "Skilled dentist with expertise in restorative and cosmetic dental procedures."
+      },
+      "haya": {
+        "name": "Dr. Haya Saied",
+        "title": "General Dentist",
+        "description": "Dedicated to providing high-quality dental care in a comfortable environment."
+      },
+      "mostafa": {
+        "name": "Dr. Mostafa El Farmawy",
+        "title": "General Dentist",
+        "description": "Committed to patient-centered dental care with a focus on long-term oral health."
+      },
+      "mohga": {
+        "name": "Dr. Mohga Essam",
+        "title": "General Dentist",
+        "description": "Experienced dental professional providing comprehensive care with a gentle approach."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Smile Transformations",
+    "subtitle": "Real results from real patients — before and after",
+    "viewAll": "View Full Portfolio",
+    "before": "Before",
+    "after": "After",
+    "cases": {
+      "case1": {
+        "title": "Full Mouth Rehabilitation",
+        "procedure": "Root Canal + Zirconia Crowns",
+        "concern": "Multiple chipped teeth",
+        "outcome": "Restored structure and natural smile"
+      },
+      "case2": {
+        "title": "Smile Makeover",
+        "procedure": "E-max Crowns",
+        "concern": "Discoloration and uneven appearance",
+        "outcome": "Brighter, harmonious smile"
+      },
+      "case3": {
+        "title": "Hollywood Smile",
+        "procedure": "E-max Veneers",
+        "concern": "Yellowish discoloration",
+        "outcome": "Brighter, attractive smile"
+      },
+      "case4": {
+        "title": "Full Smile Rehabilitation",
+        "procedure": "PMMA temporization + Zirconia Crowns",
+        "concern": "Unhappy with tooth shape",
+        "outcome": "Corrected bite and improved appearance"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Patients Say",
+    "subtitle": "Thousands of satisfied patients across Cairo",
+    "googleRating": "4.8 out of 5 on Google",
+    "verifiedReviews": "Verified Google Reviews",
+    "readMore": "Read More Reviews"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about dental care at Al Fawzy",
+    "questions": {
+      "q1": {
+        "question": "How long do dental implants last?",
+        "answer": "With proper care and maintenance, dental implants can last a lifetime. The titanium post integrates permanently with your jawbone, while the crown typically lasts 10-15 years before potentially needing replacement."
+      },
+      "q2": {
+        "question": "Is teeth whitening safe?",
+        "answer": "Yes, professional teeth whitening at our clinic is completely safe. We use clinically tested whitening agents and protect your gums throughout the procedure. Results can last 1-3 years with proper maintenance."
+      },
+      "q3": {
+        "question": "What are veneers and how long do they last?",
+        "answer": "Veneers are ultra-thin porcelain or composite shells bonded to the front of your teeth to improve appearance. E-max veneers typically last 10-20 years with proper care."
+      },
+      "q4": {
+        "question": "How often should I visit the dentist?",
+        "answer": "We recommend visiting every 6 months for routine checkups and professional cleaning. Regular visits help detect issues early and maintain optimal oral health."
+      },
+      "q5": {
+        "question": "Do you offer treatment for anxious patients?",
+        "answer": "Absolutely. We offer sedation dentistry (sleeping dentistry) where you can comfortably undergo multiple procedures in a single session under general anesthesia. Our team prioritizes your comfort."
+      },
+      "q6": {
+        "question": "How do I book an appointment?",
+        "answer": "You can book via WhatsApp (+20 111 4444190), through our online booking system, or by calling us directly. Same-day appointments and emergency walk-ins are welcome."
+      },
+      "q7": {
+        "question": "What is full mouth rehabilitation?",
+        "answer": "Full mouth rehabilitation is a comprehensive treatment that restores or replaces all teeth in the mouth. It addresses bite problems, decay, damaged teeth, and aesthetics in a coordinated treatment plan."
+      },
+      "q8": {
+        "question": "Do you treat international patients?",
+        "answer": "Yes, we have a dedicated international patient program offering treatment coordination, accommodation recommendations, and transportation assistance. Our prices are 50-70% lower than US, UK, or Gulf countries."
+      }
+    }
+  },
+  "dentalTourism": {
+    "title": "Dental Tourism in Egypt",
+    "subtitle": "World-class dental care combined with an unforgettable Cairo experience",
+    "description": "Discover Egypt's smile secrets with evidence-based dental care at a fraction of international prices. Advanced treatments, personalized packages, and dedicated support from arrival to departure.",
+    "cta": "View Dental Tourism Package",
+    "features": {
+      "savings": {
+        "title": "50-70% Cost Savings",
+        "description": "Same international quality at a fraction of US, UK, or Gulf prices"
+      },
+      "support": {
+        "title": "Full Travel Support",
+        "description": "Accommodation recommendations, transportation, and local assistance"
+      },
+      "quality": {
+        "title": "International Standards",
+        "description": "Hospital-grade sterilization, advanced technology, and evidence-based care"
+      },
+      "warranty": {
+        "title": "Lifetime Warranty",
+        "description": "All implants come with a lifetime warranty for your peace of mind"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to help — reach out anytime",
+    "getInTouch": "Get in Touch",
+    "findUs": "Find Us",
+    "bookNow": "Book Now",
+    "callUs": "Call Us",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "hours": "Working Hours",
+    "hoursValue": "10 AM – 10 PM Daily",
+    "phone1": "+20 111 010 0027",
+    "phone2": "+20 111 4444190",
+    "emailAddress": "bookappointment@alfawzydental.info",
+    "branches": {
+      "title": "Our Branches",
+      "dokki": {
+        "name": "Dokki Branch (Head Office)",
+        "address": "96 El Nile Street, Dokki, Giza 12611, Egypt"
+      },
+      "agouza": {
+        "name": "Agouza Branch",
+        "address": "96 Al Galaa Square, Al Agouzah, Dokki, Giza 12611, Egypt"
+      },
+      "newCairo": {
+        "name": "New Cairo Branch",
+        "address": "M2-5 Agora Mall, El Nasr Street, New Cairo 1, Cairo 11865, Egypt"
+      }
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+20 111 xxx xxxx",
+      "email": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "service": "Service Interested In",
+      "servicePlaceholder": "Select a service",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your dental concern or how we can help...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Thank you! We will contact you shortly.",
+      "error": "Something went wrong. Please try again or contact us via WhatsApp."
+    }
+  },
+  "book": {
+    "title": "Book an Appointment",
+    "subtitle": "Choose your preferred method to book",
+    "whatsappTitle": "Book via WhatsApp",
+    "whatsappDesc": "The fastest way to book — send us a message and we will confirm your appointment immediately",
+    "whatsappCta": "Open WhatsApp",
+    "formTitle": "Request an Appointment",
+    "formDesc": "Fill in your details and we will contact you to confirm your appointment",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+20 111 xxx xxxx",
+      "email": "Email Address (Optional)",
+      "emailPlaceholder": "your@email.com",
+      "service": "Service Required",
+      "servicePlaceholder": "Select a service",
+      "branch": "Preferred Branch",
+      "branchPlaceholder": "Select a branch",
+      "date": "Preferred Date",
+      "time": "Preferred Time",
+      "notes": "Additional Notes",
+      "notesPlaceholder": "Any specific concerns or requests...",
+      "submit": "Request Appointment",
+      "submitting": "Submitting...",
+      "success": "Your appointment request has been sent! We will contact you shortly to confirm.",
+      "error": "Something went wrong. Please try again or book via WhatsApp."
+    },
+    "branches": {
+      "dokki": "Dokki Branch",
+      "agouza": "Agouza Branch",
+      "newCairo": "New Cairo Branch"
+    },
+    "services": {
+      "implants": "Dental Implants",
+      "fullMouth": "Full Mouth Rehabilitation",
+      "veneers": "Cosmetic Veneers",
+      "sedation": "Sedation Dentistry",
+      "whitening": "Teeth Whitening",
+      "orthodontics": "Orthodontics",
+      "rootCanal": "Root Canal Treatment",
+      "crowns": "Dental Crowns",
+      "smileMakeover": "Smile Makeover",
+      "checkup": "General Checkup",
+      "other": "Other"
+    }
+  },
+  "international": {
+    "title": "International Patients",
+    "subtitle": "World-class dental care with complete travel support",
+    "heroText": "Join thousands of international patients who have transformed their smiles in Cairo",
+    "whyEgypt": "Why Choose Egypt for Dental Care?",
+    "howItWorks": "How It Works",
+    "packages": "Our Packages",
+    "getStarted": "Start Your Journey",
+    "savings": "Save 50-70% vs Western countries",
+    "steps": {
+      "consultation": {
+        "step": "01",
+        "title": "Online Consultation",
+        "description": "Send us photos and X-rays for a free remote assessment and detailed cost estimate"
+      },
+      "planning": {
+        "step": "02",
+        "title": "Treatment Planning",
+        "description": "Receive your personalized treatment plan and timeline before booking your flight"
+      },
+      "arrival": {
+        "step": "03",
+        "title": "Arrival & Treatment",
+        "description": "We coordinate your appointment schedule, with optional help for accommodation and transport"
+      },
+      "followup": {
+        "step": "04",
+        "title": "Follow-up Care",
+        "description": "Remote follow-up support and clear instructions for your dentist back home"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Leading dental clinic in Egypt since 1999. Your smile is our masterpiece.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contactInfo": "Contact Info",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved.",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "refund": "Refund Policy",
+    "cookie": "Cookie Policy",
+    "disclaimer": "Patient experiences are individual and results may vary depending on clinical condition.",
+    "workingHours": "Working Hours: 10 AM – 10 PM Daily"
+  },
+  "whatsapp": {
+    "defaultMessage": "Hello, I would like to book an appointment at Al Fawzy Dental Clinic.",
+    "implantMessage": "Hello, I would like to book a consultation for dental implants.",
+    "veneerMessage": "Hello, I am interested in cosmetic veneers and would like to book a consultation.",
+    "fullMouthMessage": "Hello, I would like to learn more about full mouth rehabilitation.",
+    "sedationMessage": "Hello, I would like to book an appointment for sedation dentistry.",
+    "generalMessage": "Hello, I have a dental inquiry and would like to speak with your team.",
+    "floatingLabel": "Book via WhatsApp",
+    "emergencyLabel": "Emergency? Chat Now"
+  },
+  "emergency": {
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "book": "Book",
+    "directions": "Directions"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "bookNow": "Book Now",
+    "callNow": "Call Now",
+    "getDirections": "Get Directions",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "back": "Back",
+    "next": "Next",
+    "close": "Close",
+    "open": "Open",
+    "readMore": "Read More",
+    "seeAll": "See All",
+    "established": "Established 1999",
+    "cairo": "Cairo, Egypt"
+  }
+}
