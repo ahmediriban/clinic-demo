@@ -109,7 +109,7 @@ export default function Footer() {
                 href={whatsappUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-2 text-gray-400 hover:text-[#25D366] text-sm transition-colors"
+                className="flex items-center gap-2 text-gray-400 hover:text-[#4ade80] text-sm transition-colors"
               >
                 <BsWhatsapp className="w-4 h-4 shrink-0" />
                 {tContact("phone2")}
@@ -149,19 +149,19 @@ export default function Footer() {
       <div className="border-t border-gray-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
-            <p className="text-gray-500 text-xs text-center">
+            <p className="text-gray-400 text-xs text-center">
               © {currentYear} Al Fawzy Dental Clinic. {t("rights")}
             </p>
             <div className="flex items-center gap-4 flex-wrap justify-center">
-              <Link href="/terms" className="text-gray-500 hover:text-gray-300 text-xs transition-colors">
+              <Link href="/terms" className="text-gray-400 hover:text-gray-200 text-xs transition-colors">
                 {t("terms")}
               </Link>
-              <Link href="/privacy" className="text-gray-500 hover:text-gray-300 text-xs transition-colors">
+              <Link href="/privacy" className="text-gray-400 hover:text-gray-200 text-xs transition-colors">
                 {t("privacy")}
               </Link>
             </div>
           </div>
-          <p className="text-gray-600 text-xs text-center mt-3">{t("disclaimer")}</p>
+          <p className="text-gray-400 text-xs text-center mt-3">{t("disclaimer")}</p>
         </div>
       </div>
     </footer>

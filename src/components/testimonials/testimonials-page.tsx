@@ -109,7 +109,7 @@ export default function TestimonialsPageContent() {
                 href={whatsappUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 bg-[#25D366] text-white font-bold px-8 py-4 rounded-full hover:bg-[#20bc5c] transition-all shadow-lg text-base"
+                className="inline-flex items-center gap-2 bg-[#1a7a3e] text-white font-bold px-8 py-4 rounded-full hover:bg-[#166534] transition-all shadow-lg text-base"
               >
                 <BsWhatsapp className="w-5 h-5" />
                 {tw("floatingLabel")}

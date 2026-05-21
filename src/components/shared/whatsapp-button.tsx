@@ -34,7 +34,7 @@ export default function WhatsAppButton() {
         target="_blank"
         rel="noopener noreferrer"
         aria-label={t("floatingLabel")}
-        className="relative flex items-center justify-center w-14 h-14 bg-[#25D366] rounded-full shadow-xl hover:shadow-2xl cursor-pointer"
+        className="relative flex items-center justify-center w-14 h-14 bg-[#1a7a3e] rounded-full shadow-xl hover:shadow-2xl cursor-pointer"
         whileHover={{ scale: 1.1 }}
         whileTap={{ scale: 0.95 }}
         onHoverStart={() => setHovered(true)}
@@ -47,7 +47,7 @@ export default function WhatsAppButton() {
 
         {/* Pulse ring */}
         <motion.div
-          className="absolute inset-0 rounded-full bg-[#25D366] opacity-30"
+          className="absolute inset-0 rounded-full bg-[#1a7a3e] opacity-30"
           animate={{ scale: [1, 1.5, 1], opacity: [0.3, 0, 0.3] }}
           transition={{ duration: 2.5, repeat: Infinity, ease: "easeInOut" }}
         />

@@ -173,7 +173,7 @@ export default function Navbar() {
               href={whatsappUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="hidden sm:flex items-center gap-2 bg-[#25D366] text-white text-sm font-semibold px-4 py-2 rounded-full hover:bg-[#20bc5c] transition-colors shadow-md"
+              className="hidden sm:flex items-center gap-2 bg-[#1a7a3e] text-white text-sm font-semibold px-4 py-2 rounded-full hover:bg-[#166534] transition-colors shadow-md"
             >
               <BsWhatsapp className="w-4 h-4" />
               {t("bookAppointment")}
@@ -231,7 +231,7 @@ export default function Navbar() {
                   href={whatsappUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex-1 flex items-center justify-center gap-2 bg-[#25D366] text-white text-sm font-semibold py-3 rounded-xl"
+                  className="flex-1 flex items-center justify-center gap-2 bg-[#1a7a3e] text-white text-sm font-semibold py-3 rounded-xl"
                 >
                   <BsWhatsapp className="w-4 h-4" />
                   {t("bookAppointment")}

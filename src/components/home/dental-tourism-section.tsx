@@ -57,9 +57,11 @@ export default function DentalTourismSection() {
                 href={whatsappUrl}
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label={t("whatsappAria")}
                 className="inline-flex items-center gap-2 border-2 border-white/40 text-white font-bold px-7 py-3.5 rounded-full hover:bg-white/10 transition-all"
               >
                 <BsWhatsapp className="w-5 h-5" />
+                {t("whatsappCta")}
               </a>
             </div>
           </motion.div>
@@ -88,7 +90,7 @@ export default function DentalTourismSection() {
                 >
                   <Icon className="w-7 h-7 text-[var(--color-accent)] mb-3" />
                   <h3 className="text-white font-bold text-sm mb-2">{title}</h3>
-                  <p className="text-blue-100 text-xs leading-relaxed">{desc}</p>
+                  <p className="text-amber-100 text-xs leading-relaxed">{desc}</p>
                 </motion.div>
               );
             })}

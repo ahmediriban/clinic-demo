@@ -195,7 +195,7 @@ function DoctorCard({
           href={whatsappUrl}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex items-center justify-center gap-2 bg-[#25D366] text-white text-sm font-semibold py-2.5 rounded-xl hover:bg-[#20bc5c] transition-colors w-full"
+          className="flex items-center justify-center gap-2 bg-[#1a7a3e] text-white text-sm font-semibold py-2.5 rounded-xl hover:bg-[#166534] transition-colors w-full"
         >
           <BsWhatsapp className="w-4 h-4" />
           {t("bookWith")}{name.split(" ")[1] || ""}
